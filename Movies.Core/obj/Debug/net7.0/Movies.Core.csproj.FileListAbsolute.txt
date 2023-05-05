@@ -1,0 +1,12 @@
+C:\Users\doung\source\repos\poc\Movies.Core\bin\Debug\net7.0\Movies.Core.deps.json
+C:\Users\doung\source\repos\poc\Movies.Core\bin\Debug\net7.0\Movies.Core.dll
+C:\Users\doung\source\repos\poc\Movies.Core\bin\Debug\net7.0\Movies.Core.pdb
+C:\Users\doung\source\repos\poc\Movies.Core\obj\Debug\net7.0\Movies.Core.csproj.AssemblyReference.cache
+C:\Users\doung\source\repos\poc\Movies.Core\obj\Debug\net7.0\Movies.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doung\source\repos\poc\Movies.Core\obj\Debug\net7.0\Movies.Core.AssemblyInfoInputs.cache
+C:\Users\doung\source\repos\poc\Movies.Core\obj\Debug\net7.0\Movies.Core.AssemblyInfo.cs
+C:\Users\doung\source\repos\poc\Movies.Core\obj\Debug\net7.0\Movies.Core.csproj.CoreCompileInputs.cache
+C:\Users\doung\source\repos\poc\Movies.Core\obj\Debug\net7.0\Movies.Core.dll
+C:\Users\doung\source\repos\poc\Movies.Core\obj\Debug\net7.0\refint\Movies.Core.dll
+C:\Users\doung\source\repos\poc\Movies.Core\obj\Debug\net7.0\Movies.Core.pdb
+C:\Users\doung\source\repos\poc\Movies.Core\obj\Debug\net7.0\ref\Movies.Core.dll

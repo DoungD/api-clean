@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "MpMMoAmONTYZYufKcDs1iCkAKkczh3pbZJJutin7daMlJ8odr1qzv0S2CwbVhawqopTsl+PuCqlyCRDv2OATVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\doung\\source\\repos\\poc\\Movies.Application\\Movies.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\doung\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\doung\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512",
+    "C:\\Users\\doung\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\doung\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\doung\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
